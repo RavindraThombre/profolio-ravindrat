@@ -2,7 +2,8 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import "react-lazy-load-image-component/src/effects/blur.css";
-import PortfolioModal from "../components/PortfolioModal";
+// import PortfolioModal from "../components/PortfolioModal";
+import PortfolioModal from "../Components/PortfolioModal.jsx"
 
 const portfolioItems = [
     {
